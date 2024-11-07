@@ -23,6 +23,7 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://swagger.io/" title="Swagger"><img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg" alt="Swagger" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
+<a href="https://bitbucket.org/" title="Bitbucket"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitbucket.svg" alt="Bitbucket" width="21px" height="21px"></a>
 <a href="https://redis.io/" title="Redis"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/redis.svg" alt="Redis" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
@@ -33,7 +34,7 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="https://www.jetbrains.com/" title="Jetbrains"><img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="Jetbrains" width="21px" height="21px"></a>
 <a href="https://www.atlassian.com/" title="Atlassian"><img src="https://github.com/get-icon/geticon/raw/master/icons/atlassian.svg" alt="Atlassian" width="21px" height="21px"></a>
-<a href="https://bitbucket.org/" title="Bitbucket"><img src="https://github.com/get-icon/geticon/raw/master/icons/bitbucket.svg" alt="Bitbucket" width="21px" height="21px"></a>
+
 
 
 <!--
