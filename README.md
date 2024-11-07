@@ -1,6 +1,5 @@
 ## Ivan Semernyakov 👋
 
-****
 Hi there! I'm Python Developer.
 
 <!--
