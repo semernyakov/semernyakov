@@ -16,7 +16,7 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semernyakov&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=semernyakov&theme=nord_bright)
 
-#### Profile Stats
+#### Usefull Links
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <!--
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
