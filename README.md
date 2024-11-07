@@ -1,8 +1,7 @@
-## Hi there 👋
+## Ivan Semernyakov 👋
 
-**Ivan Semernyakov**
-
-I'm Python Developer!
+****
+Hi there! I'm Python Developer.
 
 <!--
 - 🔭 I’m currently working on ...
