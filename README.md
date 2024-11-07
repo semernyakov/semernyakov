@@ -6,15 +6,17 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com)
 
-#### My GitHub Trophy
+#### GitHub Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=semernyakov&column=5&margin-w=15&margin-h=15&o-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
-#### My Profile Stats
+#### Profile Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semernyakov&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=semernyakov&theme=nord_bright)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=semernyakov&theme=nord_bright)
+
+#### Profile Stats
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <!--
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
