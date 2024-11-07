@@ -1,12 +1,14 @@
 ## Ivan Semernyakov 👋
 
+![](https://komarev.com/ghpvc/?username=semernaykov)
+
 Hi there! I'm Python Developer.
 
-![](https://komarev.com/ghpvc/?username=semernaykov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com)
 
 #### GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=semernyakov&column=5&margin-w=15&margin-h=15&o-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=semernyakov&column=5&margin-w=15&margin-h=15&o-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 #### Profile Stats
 
