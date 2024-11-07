@@ -1,8 +1,8 @@
-## Python Developer 👋
+## Welcome to My Personal GitHub Page! 👋
 
 ![](https://komarev.com/ghpvc/?username=semernaykov)
 
-Hi there! I'm Ivan Semernyakov from Krasnodar (Russia).
+Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Russia.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com)
 
