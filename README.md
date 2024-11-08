@@ -1,10 +1,21 @@
 ## Welcome to My Personal GitHub Page! 👋
 
-![](https://komarev.com/ghpvc/?username=semernaykov)
-
 Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Russia.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com)
+#### Please feel free to contact me if you need 
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com) ![](https://komarev.com/ghpvc/?username=semernaykov&style=for-the-badge)
+
+#### My Lovely Stack
+
+[![Django][djangoproject.com]][django-url]
+[![FastAPI][fastapi.tiangolo.com]][fastapi-url]
+[![Pydantic][pydantic.com]][pydantic-url]
+[![SQLAlchemy][sqlalchemy.org]][sqlalchemy-url]
+[![Uvicorn][uvicorn.org]][uvicorn-url]
+[![asyncpg][asyncpg.github.io]][asyncpg-url]
+[![alembic][alembic.sqlalchemy.org]][alembic-url]
+[![rich][rich.readthedocs.io]][rich-url]
 
 #### GitHib Trophy and Profile Stats
 
@@ -49,3 +60,38 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/grillazz/fastapi-sqlalchemy-asyncpg.svg?style=for-the-badge
+[contributors-url]: https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/grillazz/fastapi-sqlalchemy-asyncpg.svg?style=for-the-badge
+[forks-url]: https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/network/members
+[stars-shield]: https://img.shields.io/github/stars/grillazz/fastapi-sqlalchemy-asyncpg.svg?style=for-the-badge
+[stars-url]: https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/stargazers
+[issues-shield]: https://img.shields.io/github/issues/grillazz/fastapi-sqlalchemy-asyncpg.svg?style=for-the-badge
+[issues-url]: https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/issues
+[license-shield]: https://img.shields.io/github/license/grillazz/fastapi-sqlalchemy-asyncpg.svg?style=for-the-badge
+[license-url]: https://github.com/grillazz/fastapi-sqlalchemy-asyncpg/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/python-has-powers/
+[fastapi.tiangolo.com]: https://img.shields.io/badge/FastAPI-0.115.2-009485?style=for-the-badge&logo=fastapi&logoColor=white
+[fastapi-url]: https://fastapi.tiangolo.com/
+[pydantic.com]: https://img.shields.io/badge/Pydantic-2.9.2-e92063?style=for-the-badge&logo=pydantic&logoColor=white
+[pydantic-url]: https://docs.pydantic.dev/latest/
+[sqlalchemy.org]: https://img.shields.io/badge/SQLAlchemy-2.0.36-bb0000?color=bb0000&style=for-the-badge
+[sqlalchemy-url]: https://docs.sqlalchemy.org/en/20/
+[uvicorn.org]: https://img.shields.io/badge/Uvicorn-0.32.0-2094f3?style=for-the-badge&logo=uvicorn&logoColor=white
+[uvicorn-url]: https://www.uvicorn.org/
+[asyncpg.github.io]: https://img.shields.io/badge/asyncpg-0.29.0-2e6fce?style=for-the-badge&logo=postgresql&logoColor=white
+[asyncpg-url]: https://magicstack.github.io/asyncpg/current/
+[pytest.org]: https://img.shields.io/badge/pytest-8.3.3-fff?style=for-the-badge&logo=pytest&logoColor=white
+[pytest-url]: https://docs.pytest.org/en/6.2.x/
+[alembic.sqlalchemy.org]: https://img.shields.io/badge/alembic-1.13.3-6BA81E?style=for-the-badge&logo=alembic&logoColor=white
+[alembic-url]: https://alembic.sqlalchemy.org/en/latest/
+[rich.readthedocs.io]: https://img.shields.io/badge/rich-13.9.2-009485?style=for-the-badge&logo=rich&logoColor=white
+[rich-url]: https://rich.readthedocs.io/en/latest/
+[redis.io]: https://img.shields.io/badge/redis-5.1.1-dc382d?style=for-the-badge&logo=redis&logoColor=white
+[redis-url]: https://redis.io/
+[djangoproject.com]: https://img.shields.io/badge/Django-5.1.3-092E20?style=for-the-badge&logo=django&logoColor=green
+[django-url]: https://www.djangoproject.com/
