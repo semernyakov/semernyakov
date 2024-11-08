@@ -2,7 +2,7 @@
 
 Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Russia.
 
-#### Please feel free to contact me if you need 
+#### Please feel free to contact me ...
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/semernyakov) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatuminflow@gmail.com) ![](https://komarev.com/ghpvc/?username=semernaykov&style=for-the-badge)
 
