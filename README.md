@@ -27,11 +27,9 @@ Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Rus
 
 #### Usefull Links
 
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> <!--
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://pandas.pydata.org/" title="pandas"><img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px"></a>
 <a href="https://numpy.org/" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px"></a>
--->
-<a href="https://www.djangoproject.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="django" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://swagger.io/" title="Swagger"><img src="https://github.com/get-icon/geticon/raw/master/icons/swagger.svg" alt="Swagger" width="21px" height="21px"></a>
