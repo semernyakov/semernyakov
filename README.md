@@ -1,6 +1,6 @@
 ## Welcome to My Personal GitHub Page! 👋
 
-Hi there! My name's Ivan Semernyakov, I'm a Python Developer from Krasnodar, Russia.
+Hi there! My name's Ivan Semernyakov, I'm a Lead AI Engineer from Krasnodar, Russia.
 
 #### Please feel free to contact me ...
 
