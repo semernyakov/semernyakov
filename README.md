@@ -1,6 +1,6 @@
 # Ivan Semernyakov
 
-**Lead Backend / AI Engineer · Python · LLM & RAG infrastructure · 16+ years**
+**Lead AI Engineer (LLM / RAG / Agents / Platform / Infra) · 16+ years**
 
 I build production AI platforms: LLM inference, RAG pipelines, multimodal services and the backend that holds them together. Krasnodar, Russia (GMT+3) · Remote-first · Open to Lead/Senior roles & contract work.
 
