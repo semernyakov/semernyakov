@@ -30,6 +30,16 @@ Building production LLM/RAG platforms and the backend that holds them together. 
 
 > Significant portion of work performed under NDA — happy to discuss on request.
 
+### 🌟 Open Source
+
+| Project | Stack | Status | Description |
+|---|---|---|---|
+| [**PolyMind**](https://github.com/semernyakov/polymind) | TypeScript · Obsidian API | active | One Vault · Any Model · Infinite Evolution. AI-chat плагин для Obsidian с поддержкой Groq и других LLM-провайдеров. |
+| [**hh-auto-apply**](https://github.com/semernyakov/hh-auto-apply) | Python · Playwright · Claude · FastAPI | active | Авто-отклики и человечные ответы в чатах HH.ru через Claude Haiku 4.5. Веб-дашборд с метриками и пагинацией. MIT. |
+| [**custody-service**](https://github.com/semernyakov/custody-service) | Python · FastAPI · Postgres | MVP | Transaction Custody Service — Blitz MVP / Test Case. Безопасное хранение и оркестрация транзакций. |
+| [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | TypeScript · Bun · Hono | 🚀 coming soon | Content OS для агентств и инфлюенсеров — продукт-стартап. Лендинг и инфра. |
+| **semernyakov.ru** (личный блог) | — | 🚀 coming soon | Заметки про AI Engineering, LLM-платформы, инженерную культуру и поиск работы. |
+
 ### 📌 About
 
 16+ years building production systems and leading teams up to 8 engineers. Now focused on LLM platforms, RAG and agentic infrastructure.
