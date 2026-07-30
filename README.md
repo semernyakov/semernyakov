@@ -40,7 +40,7 @@ Specializing in:
 - **Single-Window Citizen Platform** — distributed backend, JWT/OAuth2 + 2FA, Redis Streams real-time notifications, RabbitMQ + Celery mass mailing, ERC-20 smart contract on Polygon.
 - **PolyMind** — Multimodal AI Service** — unified LLM-provider abstraction, parameter control, conversation storage with versioning, GitHub Actions release pipeline.
 
-> Significant portion of work performed under NDA — happy to discuss on request.
+<!-- > Significant portion of work performed under NDA — happy to discuss on request. -->
 
 ### 🌟 Open Source
 
