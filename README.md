@@ -4,14 +4,14 @@ Hi there are, i'm from Senior AI Engineer with 16+ years, from Krasnodar, Russia
 
 **Open to Lead Backend / AI Infrastructure roles**
 
-specializing in:
-• Python, High-Load Architecture & Platform Engineering
-• LLM, RAG & Multi-Agent Systems
-• Scalable AI Infrastructure
+Specializing in:
+- Python, High-Load Architecture & Platform Engineering
+- LLM, RAG & Multi-Agent Systems
+- Scalable AI Infrastructure
 
-Feel free, to contact:
+**Feel free, to contact:**
 
-[![Open to Work](https://shields.io)
+![Open to Work](https://shields.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@semernyakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/semernyakov)
 [![Email](https://img.shields.io/badge/Email-i.semernyakov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.semernyakov@gmail.com)
 [![Site](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
