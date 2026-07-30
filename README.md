@@ -1,6 +1,6 @@
 # Ivan Semernyakov
 
-**Lead AI Engineer (LLM / RAG / Agents / Platform / Infra) · 16+ years**
+**Senior AI Engineer (Python, LLM/RAG/Multi-Agent Systems, Architecture & Platform Engineering) · 16+ years**
 
 Building production LLM/RAG platforms and the backend that holds them together. Krasnodar (GMT+3) · remote.
 
@@ -18,9 +18,11 @@ Building production LLM/RAG platforms and the backend that holds them together. 
 
 ### 🧰 Stack
 
-**Core** — Python · FastAPI · Django · PostgreSQL · Redis · RabbitMQ
-**AI / LLM** — RAG · MoE · MCP · LangChain · LlamaIndex · Transformers (HF) · PyTorch · vLLM / llama.cpp · Qdrant
-**MLOps & Infra** — Docker · Kubernetes · GitHub Actions · Prometheus / Grafana · S3
+🧠 **AI‑Core::  Python, PostgreSQL, Redis, RabbitMQ, FastAPI, Litestar (Starlette),Tensorflow, PyTorch, Pydantic AI, LangChain, LangGraph, LlamaIndex, Haystack,  FastEmbed,  FastStream, Transformers (HF),  LiteLLM
+🗄️ **Vector Databases:** Qdrant, Chroma, pgvector
+🤖 **Architecture & Patterns:** Event-Driven Architecture (EDA), Domain-Driven Design (DDD),  Command Query Responsibility Segregation (CQRS), Event Sourcing (Storing the application state as a sequence of events), Hexagonal (Ports and Adapters) Architecture and other...
+🐳 **MLOps & CI/CD:**  Docker, Podman, Kubernetes (K8s), GitHub Actions / GitLab CI
+📜 **Monitoring & Infrastructure:** Prometheus, Grafana, ELK, MinIO
 
 ### 🛠 Selected work
 
