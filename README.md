@@ -38,7 +38,7 @@ Specializing in:
 
 - **City-scale Video Analytics** — doubled inference throughput **6 → 12 FPS**, optimised CPU/GPU utilisation, cut storage cost via compression tuning.
 - **Single-Window Citizen Platform** — distributed backend, JWT/OAuth2 + 2FA, Redis Streams real-time notifications, RabbitMQ + Celery mass mailing, ERC-20 smart contract on Polygon.
-- **PolyMind** — Multimodal AI Service** — unified LLM-provider abstraction, parameter control, conversation storage with versioning, GitHub Actions release pipeline.
+- **PolyMind** — Multimodal AI Service — unified LLM-provider abstraction, parameter control, conversation storage with versioning, GitHub Actions release pipeline.
 
 <!-- > Significant portion of work performed under NDA — happy to discuss on request. -->
 
@@ -53,13 +53,14 @@ Specializing in:
 | [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | TypeScript · Bun · Hono | 🚀 coming soon | Content OS для агентств и инфлюенсеров — продукт-стартап. Лендинг и инфра. |
 | **semernyakov.ru** (личный блог) | — | 🚀 coming soon |  Notes on AI Engineering, LLM platforms, engineering culture, and job hunting. |
 
+<!--
 ### 📌 About Me
 
 16+ years building production systems and leading teams up to 8 engineers. Now focused on LLM platforms, RAG and agentic infrastructure.
 
 - **Languages:** Russian (native) · English (B2)
 - **Open to:** Lead Backend / AI Infrastructure roles · contract · remote · EU/RU timezones
-
+-->
 ### 📊 Profile
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=semernyakov&theme=nord_bright)
