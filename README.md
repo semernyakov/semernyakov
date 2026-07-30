@@ -48,6 +48,17 @@ Building production LLM/RAG platforms and the backend that holds them together. 
 | [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | TypeScript · Bun · Hono | 🚀 coming soon | Content OS для агентств и инфлюенсеров — продукт-стартап. Лендинг и инфра. |
 | **semernyakov.ru** (личный блог) | — | 🚀 coming soon | Заметки про AI Engineering, LLM-платформы, инженерную культуру и поиск работы. |
 
+### 🌟 Open Source
+
+| Project | Stack | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **PolyMind** | TypeScript · Obsidian API | active | One Vault · Any Model · Infinite Evolution. AI chat plugin for Obsidian with support for Groq and other LLM providers. |
+| **hh-auto-apply** | Python · Playwright · Claude · FastAPI | active | Auto-applications and human-like responses in HH.ru chats via Claude Haiku 4.5. Web dashboard with metrics and pagination. MIT License. |
+| **ai-skill-system** | Python · Bun · MCP | active | Cross-IDE rules and skills system for AI-assisted development. MCP Gateway, mirrors for Cursor / Windsurf / IntelliJ. |
+| **custody-service** | Python · FastAPI · Postgres | MVP | Transaction Custody Service — Blitz MVP / Test Case. Secure transaction storage and orchestration. |
+| **omnikross.ru** | TypeScript · Bun · Hono | 🚀 coming soon | Content OS for agencies and influencers — product startup. Landing page and infrastructure. |
+| **semernyakov.ru** (personal blog) | — | 🚀 coming soon | Notes on AI Engineering, LLM platforms, engineering culture, and job hunting. |
+
 ### 📌 About
 
 16+ years building production systems and leading teams up to 8 engineers. Now focused on LLM platforms, RAG and agentic infrastructure.
