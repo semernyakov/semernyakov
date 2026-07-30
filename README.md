@@ -1,20 +1,20 @@
 # Ivan Semernyakov
 
-Hi there are, i'm from Senior AI Engineer with 16+ years, from Krasnodar, Russia.
+Hi there! I'm a Senior AI Engineer with 16+ years of experience, based in Krasnodar, Russia (GMT+3).
 
-**Open to Lead Backend / AI Infrastructure roles**
+**🟢 Open to Lead Backend / AI Infrastructure roles**
 
 Specializing in:
-- Python, High-Load Architecture & Platform Engineering
-- LLM, RAG & Multi-Agent Systems
-- Scalable AI Infrastructure
+- 🐍 Python, High-Load Architecture & Platform Engineering
+- 🤖 LLM, RAG & Multi-Agent Systems
+- ⚙️ Scalable AI Infrastructure
 
-**Feel free, to contact:**
+**Feel free to reach out:**
 
-![Open to Work](https://shields.io)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-brightgreen?style=flat-square)](mailto:i.semernyakov@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@semernyakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/semernyakov)
 [![Email](https://img.shields.io/badge/Email-i.semernyakov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.semernyakov@gmail.com)
-[![Site](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
+[![Website](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
 
 ---
 
