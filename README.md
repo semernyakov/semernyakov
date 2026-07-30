@@ -12,7 +12,7 @@ Specializing in:
 **Feel free to reach out:**
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅%20Available-brightgreen?style=flat-square)](mailto:i.semernyakov@gmail.com)
-[![hh.ru](https://img.shields.io/badge/hh.ru-Резюме-FF6632?style=flat-square&logo=headhunter&logoColor=white)](https://hh.ru/resume/c3fc77c1ff0db0e17c0039ed1f736a674f6642)
+[![hh.ru](https://img.shields.io/badge/hh.ru-CV-FF6632?style=flat-square&logo=headhunter&logoColor=white)](https://hh.ru/resume/c3fc77c1ff0db0e17c0039ed1f736a674f6642)
 [![Telegram](https://img.shields.io/badge/Telegram-@semernyakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/semernyakov)
 [![Email](https://img.shields.io/badge/Email-i.semernyakov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.semernyakov@gmail.com)
 [![Website](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
