@@ -1,9 +1,17 @@
 # Ivan Semernyakov
 
-**Senior AI Engineer (Python, LLM/RAG/Multi-Agent Systems, Architecture & Platform Engineering) · 16+ years**
+Hi there are, i'm from Senior AI Engineer with 16+ years, from Krasnodar, Russia.
 
-Building production LLM/RAG platforms and the backend that holds them together. Krasnodar (GMT+3) · remote.
+**Open to Lead Backend / AI Infrastructure roles**
 
+specializing in:
+• Python, High-Load Architecture & Platform Engineering
+• LLM, RAG & Multi-Agent Systems
+• Scalable AI Infrastructure
+
+Feel free, to contact:
+
+[![Open to Work](https://shields.io)
 [![Telegram](https://img.shields.io/badge/Telegram-@semernyakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/semernyakov)
 [![Email](https://img.shields.io/badge/Email-i.semernyakov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.semernyakov@gmail.com)
 [![Site](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
@@ -41,25 +49,14 @@ Building production LLM/RAG platforms and the backend that holds them together. 
 
 | Project | Stack | Status | Description |
 |---|---|---|---|
-| [**PolyMind**](https://github.com/semernyakov/polymind) | TypeScript · Obsidian API | active | One Vault · Any Model · Infinite Evolution. AI-chat плагин для Obsidian с поддержкой Groq и других LLM-провайдеров. |
-| [**hh-auto-apply**](https://github.com/semernyakov/hh-auto-apply) | Python · Playwright · Claude · FastAPI | active | Авто-отклики и человечные ответы в чатах HH.ru через Claude Haiku 4.5. Веб-дашборд с метриками и пагинацией. MIT. |
-| [**ai-skill-system**](https://github.com/semernyakov/ai-skill-system) | Python · Bun · MCP | active | Кросс-IDE система правил и навыков для AI-assisted development. MCP Gateway, зеркала под Cursor / Windsurf / IntelliJ. |
-| [**custody-service**](https://github.com/semernyakov/custody-service) | Python · FastAPI · Postgres | MVP | Transaction Custody Service — Blitz MVP / Test Case. Безопасное хранение и оркестрация транзакций. |
+| [**PolyMind**](https://github.com/semernyakov/polymind) | TypeScript · Obsidian API | active | One Vault · Any Model · Infinite Evolution. AI chat plugin for Obsidian with support for Groq and other LLM providers. |
+| [**hh-auto-apply**](https://github.com/semernyakov/hh-auto-apply) | Python · Playwright · Claude · FastAPI | active | Auto-applications and human-like responses in HH.ru chats via Claude Haiku 4.5. Web dashboard with metrics and pagination. MIT License. |
+| [**ai-skill-system**](https://github.com/semernyakov/ai-skill-system) | Python · Bun · MCP | active | Cross-IDE rules and skills system for AI-assisted development. MCP Gateway, mirrors for Cursor / Windsurf / VS Code / PyCharm. |
+| [**custody-service**](https://github.com/semernyakov/custody-service) | Python · FastAPI · Postgres | MVP |  Transaction Custody Service — Blitz MVP / Test Case. Secure transaction storage and orchestration. |
 | [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | TypeScript · Bun · Hono | 🚀 coming soon | Content OS для агентств и инфлюенсеров — продукт-стартап. Лендинг и инфра. |
-| **semernyakov.ru** (личный блог) | — | 🚀 coming soon | Заметки про AI Engineering, LLM-платформы, инженерную культуру и поиск работы. |
+| **semernyakov.ru** (личный блог) | — | 🚀 coming soon |  Notes on AI Engineering, LLM platforms, engineering culture, and job hunting. |
 
-### 🌟 Open Source
-
-| Project | Stack | Status | Description |
-| :--- | :--- | :--- | :--- |
-| **PolyMind** | TypeScript · Obsidian API | active | One Vault · Any Model · Infinite Evolution. AI chat plugin for Obsidian with support for Groq and other LLM providers. |
-| **hh-auto-apply** | Python · Playwright · Claude · FastAPI | active | Auto-applications and human-like responses in HH.ru chats via Claude Haiku 4.5. Web dashboard with metrics and pagination. MIT License. |
-| **ai-skill-system** | Python · Bun · MCP | active | Cross-IDE rules and skills system for AI-assisted development. MCP Gateway, mirrors for Cursor / Windsurf / IntelliJ. |
-| **custody-service** | Python · FastAPI · Postgres | MVP | Transaction Custody Service — Blitz MVP / Test Case. Secure transaction storage and orchestration. |
-| **omnikross.ru** | TypeScript · Bun · Hono | 🚀 coming soon | Content OS for agencies and influencers — product startup. Landing page and infrastructure. |
-| **semernyakov.ru** (personal blog) | — | 🚀 coming soon | Notes on AI Engineering, LLM platforms, engineering culture, and job hunting. |
-
-### 📌 About
+### 📌 About Me
 
 16+ years building production systems and leading teams up to 8 engineers. Now focused on LLM platforms, RAG and agentic infrastructure.
 
