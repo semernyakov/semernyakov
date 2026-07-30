@@ -50,7 +50,7 @@ Specializing in:
 | [**hh-auto-apply**](https://github.com/semernyakov/hh-auto-apply) | Python · Playwright · Claude · FastAPI | active | Auto-applications and human-like responses in HH.ru chats via Claude Haiku 4.5. Web dashboard with metrics and pagination. MIT License. |
 | [**ai-skill-system**](https://github.com/semernyakov/ai-skill-system) | Python · Bun · MCP | active | Cross-IDE rules and skills system for AI-assisted development. MCP Gateway, mirrors for Cursor / Windsurf / VS Code / PyCharm. |
 | [**custody-service**](https://github.com/semernyakov/custody-service) | Python · FastAPI · Postgres | MVP |  Transaction Custody Service — Blitz MVP / Test Case. Secure transaction storage and orchestration. |
-| [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | TypeScript · Bun · Hono | 🚀 coming soon | AI powered Content Execution System (COS) |
+| [**omnikross**](https://github.com/semernyakov/omnikross) → [omnikross.ru](https://omnikross.ru) | Python, TypeScript · Bun · Hono | 🚀 coming soon | AI powered Content Execution System (COS) |
 | **Personal Techblog:** [semernyakov.ru](https://semernyakov.ru) | — | 🚀 coming soon |  Notes on AI Engineering, LLM platforms, engineering culture, and job hunting. |
 
 <!--
