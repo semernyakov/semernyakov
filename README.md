@@ -17,13 +17,6 @@ Specializing in:
 [![Website](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
 
 ---
-
-### 🔭 Currently building
-
-- **Multimodal LLM gateway** — unified API over multiple providers, streaming, secure key handling.
-- **RAG infrastructure** on Qdrant + FastAPI: ingestion, hybrid retrieval, evaluation harness.
-- **Agentic workflows** with MCP, event-driven orchestration and human-in-the-loop.
-
 ### 🧰 Stack
 
 🧠 **AI‑Core:**  Python, PostgreSQL, Redis, RabbitMQ, FastAPI, Litestar (Starlette),Tensorflow, PyTorch, Pydantic AI, LangChain, LangGraph, LlamaIndex, Haystack,  FastEmbed,  FastStream, Transformers (HF),  LiteLLM
@@ -35,8 +28,12 @@ Specializing in:
 🐳 **MLOps & CI/CD:**  Docker, Podman, Kubernetes (K8s), GitHub Actions / GitLab CI
 
 📜 **Monitoring & Infrastructure:** Prometheus, Grafana, ELK, MinIO
+<!--
+### 🔭 Currently building
 
-
+- **OmniKross** — AI powered Content Execution System (COS).
+- **PulseFrame** — Self-hosted AI microframework.
+-->
 ### 🛠 Selected work
 
 - **City-scale Video Analytics** — doubled inference throughput **6 → 12 FPS**, optimised CPU/GPU utilisation, cut storage cost via compression tuning.
