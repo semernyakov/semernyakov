@@ -16,7 +16,7 @@ Specializing in:
 [![Telegram](https://img.shields.io/badge/Telegram-@semernyakov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/semernyakov)
 [![Email](https://img.shields.io/badge/Email-i.semernyakov@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.semernyakov@gmail.com)
 [![Website](https://img.shields.io/badge/semernyakov.ru-0F1117?style=flat-square&logo=safari&logoColor=white)](https://semernyakov.ru)
-
+<!--
 ---
 ### 🧰 Stack
 
@@ -29,19 +29,19 @@ Specializing in:
 🐳 **MLOps & CI/CD:**  Docker, Podman, Kubernetes (K8s), GitHub Actions / GitLab CI
 
 📜 **Monitoring & Infrastructure:** Prometheus, Grafana, ELK, MinIO
-<!--
+
 ### 🔭 Currently building
 
 - **OmniKross** — AI powered Content Execution System (COS).
 - **PulseFrame** — Self-hosted AI microframework.
--->
+
 ### 🛠 Selected work
 
 - **City-scale Video Analytics** — doubled inference throughput **6 → 12 FPS**, optimised CPU/GPU utilisation, cut storage cost via compression tuning.
 - **Single-Window Citizen Platform** — distributed backend, JWT/OAuth2 + 2FA, Redis Streams real-time notifications, RabbitMQ + Celery mass mailing, ERC-20 smart contract on Polygon.
 - **PolyMind** — Multimodal AI Service — unified LLM-provider abstraction, parameter control, conversation storage with versioning, GitHub Actions release pipeline.
 
-<!-- > Significant portion of work performed under NDA — happy to discuss on request. -->
+Significant portion of work performed under NDA — happy to discuss on request. -->
 
 ### 🌟 Open Source
 
